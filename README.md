@@ -1,4 +1,4 @@
-# ✨ Image Generation App ✨
+# ✨ توليد صور مع الفنان البحريني: البروش ✨
 
 [![Streamlit Replicate Image App](https://github.com/tonykipkemboi/streamlit-replicate-img-app/actions/workflows/python-app.yml/badge.svg)](https://github.com/tonykipkemboi/streamlit-replicate-img-app/actions/workflows/python-app.yml)
 
